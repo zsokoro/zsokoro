@@ -1,3 +1,9 @@
+## Sokoro
+
+🌍 Geospatial and Remote Sensing Specialist | Environmental Engineer 🎓
+    Check out my [Website](https://sokoro5.wixsite.com/home)
+
+
 ## Hi there 👋
 
 <!--
