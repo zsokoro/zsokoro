@@ -9,15 +9,15 @@ I'm a dedicated professional specializing in geospatial analysis, remote sensing
 
 ---
 
-## 🔧 Skills and Technical Tools
+## 🔧 Skills
 - **Geospatial Technologies:** ESRI Products | QGIS | FME | Cartography | Remote Sensing |
 - **Environmental Analysis:** Hydrological Modelling | Hydrochemistry | Hydrogeochemistry | Risk Assessment | Soil Erosion & Soil Protection | EHS & Sustainability  | Urban Water Management | Research & Development
 - **Data Management:** Geospatial Asset Management | Spatial & Non-Spatial Data Analytics 
 - **Project Management:** Agile Methodologies | Safety Management | Consultancy
 
-### 💻 Technical Tools and Platforms
+## 💻 Technical Tools and Platforms
 
-#### 🗺️ Geospatial & Environmental Tools
+### 🗺️ Geospatial & Environmental Tools
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-Pro-4479A1?logo=esri&logoColor=white)
 ![ArcGIS Online](https://img.shields.io/badge/ArcGIS-Online-4479A1?logo=esri&logoColor=white)
 ![ArcGIS StoryMap&Dashboard](https://img.shields.io/badge/ArcGIS-StoryMaps|Dashboards-4479A1?logo=esri&logoColor=white)
@@ -27,7 +27,7 @@ I'm a dedicated professional specializing in geospatial analysis, remote sensing
 ![IBAK Panoramo](https://img.shields.io/badge/IBAK%20Panoramo-Sewer%20Inspection-lightgrey)
 ![IVEPro](https://img.shields.io/badge/IvePro-Inspection%20Software-blue)
 
-#### 📊 Data, Analytics & BI
+### 📊 Data, Analytics & BI
 ![Python](https://img.shields.io/badge/Python-3.10-yellow?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-4.3.1-blue?logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
@@ -39,19 +39,19 @@ I'm a dedicated professional specializing in geospatial analysis, remote sensing
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-4479A1?logo=microsoft&logoColor=white)
 
-#### 🛠️ Development Tools
+### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?logo=github&logoColor=white)
 
 
-#### 🛠️ Project Management & Collaboration
+### 🛠️ Project Management & Collaboration
 ![Jira](https://img.shields.io/badge/Jira-Project%20Management-0052CC?logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-Task%20Management-0079BF?logo=trello&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-Project%20Management-273347?logo=asana&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-Team%20Communication-4A154B?logo=slack&logoColor=white)
 ![MS Project](https://img.shields.io/badge/Microsoft%20Project-Project%20Management-0078D7?logo=microsoft-project&logoColor=white)
 
-#### 🧩 Microsoft 365 Suite
+### 🧩 Microsoft 365 Suite
 ![Visio](https://img.shields.io/badge/Visio-Diagramming-3955A3?logo=microsoft&logoColor=white)
 ![OneNote](https://img.shields.io/badge/OneNote-Digital%20Notebook-80397B?logo=microsoft&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-Presentations-B7472A?logo=microsoft&logoColor=white)
@@ -63,7 +63,7 @@ I'm a dedicated professional specializing in geospatial analysis, remote sensing
 
 ---
 
-### Blog Posts
+## Blog Posts
 - [Problem Solving Using Computational Thinking](https://sokoro5.wixsite.com/home/post/problem-solving-using-computational-thinking)
 - [How GIS is Revolutionizing Environmental Engineering: A Comprehensive Guide](https://sokoro5.wixsite.com/home/post/how-gis-is-revolutionizing-environmental-engineering-a-comprehensive-guide)
 
