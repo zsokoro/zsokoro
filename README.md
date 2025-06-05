@@ -1,6 +1,6 @@
 # Sokoro
 
-🌍 **GIS and Remote Sensing Specialist | Environmental Engineer | Tech Enthusiast🚀**
+🌍 **GIS and Remote Sensing Specialist | Environmental Engineer | Tech Enthusiast**🚀
 
 
 ## Hi there 👋
