@@ -1,6 +1,6 @@
 # Sokoro
 
-🌍 **GIS and Remote Sensing Specialist | Environmental Engineer | Tech Enthusiast**
+🌍 **GIS and Remote Sensing Specialist | Environmental Engineer | Tech Enthusiast🚀**
 
 
 ## Hi there 👋
@@ -20,12 +20,12 @@ I'm a dedicated professional specializing in geospatial analysis, remote sensing
 #### 🗺️ Geospatial & Environmental Tools
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-Pro-4479A1?logo=esri&logoColor=white)
 ![ArcGIS Online](https://img.shields.io/badge/ArcGIS-Online-4479A1?logo=esri&logoColor=white)
-![ArcGIS StoryMap&Dashnoard](https://img.shields.io/badge/ArcGIS-StoryMaps|Dashboards-4479A1?logo=esri&logoColor=white)
+![ArcGIS StoryMap&Dashboard](https://img.shields.io/badge/ArcGIS-StoryMaps|Dashboards-4479A1?logo=esri&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-3.28-green?logo=qgis&logoColor=white)
 ![FME](https://img.shields.io/badge/FME%20Smallworld%20GIS-Data%20Integration-orange?logo=fme&logoColor=white)
 ![Lovion](https://img.shields.io/badge/Lovion-Asset%20Management-blue)
 ![IBAK Panoramo](https://img.shields.io/badge/IBAK%20Panoramo-Sewer%20Inspection-lightgrey)
-![IvePro](https://img.shields.io/badge/IvePro-Inspection%20Software-blue)
+![IVEPro](https://img.shields.io/badge/IvePro-Inspection%20Software-blue)
 
 #### 📊 Data, Analytics & BI
 ![Python](https://img.shields.io/badge/Python-3.10-yellow?logo=python&logoColor=white)
@@ -68,6 +68,15 @@ I'm a dedicated professional specializing in geospatial analysis, remote sensing
 - [How GIS is Revolutionizing Environmental Engineering: A Comprehensive Guide](https://sokoro5.wixsite.com/home/post/how-gis-is-revolutionizing-environmental-engineering-a-comprehensive-guide)
 
 ---
+
+
+
+
+
+
+
+
+
 
 
 
