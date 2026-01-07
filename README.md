@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-I'm a dedicated professional specializing in geospatial analysis, remote sensing, and environmental data management. My work focuses on sustainable solutions in water resource management, infrastructure systems, and environmental protection. Check out my [Website](https://sokoro5.wixsite.com/home)
+GIS and environmental engineering specialist focused on geospatial analysis, remote sensing, and spatial data systems for sustainable infrastructure and environmental solutions.
 
 ---
 
