@@ -6,7 +6,6 @@
 ## Hi there 👋
 
 GIS and environmental engineering specialist focused on geospatial analysis, remote sensing, and spatial data systems for sustainable infrastructure and environmental solutions.
----
 
 ## 🔧 Skills
 - **Geospatial Technologies:** ArcGIS Platform (Pro, ArcMap, Enterprise) | QGIS | FME | Spatial Data Modeling | Remote Sensing | Cartographic Design |
