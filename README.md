@@ -9,7 +9,7 @@ GIS and environmental engineering specialist focused on geospatial analysis, rem
 ---
 
 ## 🔧 Skills
-- **Geospatial Technologies:** ArcGIS Platform (Pro, ArcMap, Enterprise) | QGIS | FME | Spatial Data Modeling | Remote Sensing | Cartographic Design|
+- **Geospatial Technologies:** ArcGIS Platform (Pro, ArcMap, Enterprise) | QGIS | FME | Spatial Data Modeling | Remote Sensing | Cartographic Design |
 - **Environmental & Infrastructure Analysis:** Hydrological Modelling | Hydrochemistry & Hydrogeochemistry | Environmental Risk Assessment | Soil Erosion & Protection | Urban Water Management | EHS & Sustainability
 - **Data & Asset Management:** Geospatial Asset Management | Spatial & Non-Spatial Data Analytics | Data Quality & Standards
 - **Project & Technical Delivery:** Agile Methodologies | Technical Consultancy | Safety Management
