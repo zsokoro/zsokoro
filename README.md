@@ -1,19 +1,18 @@
 # Sokoro
 
-🌍 **GIS and Remote Sensing Specialist | Environmental Engineer | Tech Enthusiast**🚀
+**GIS & Environmental Engineering Specialist | Spatial Data Systems & Remote Sensing**
 
 
 ## Hi there 👋
 
-I'm a dedicated professional specializing in geospatial analysis, remote sensing, and environmental data management. My work focuses on sustainable solutions in water resource management, infrastructure systems, and environmental protection. Check out my [Website](https://sokoro5.wixsite.com/home)
-
+GIS and environmental engineering specialist focused on geospatial analysis, remote sensing, and spatial data systems for sustainable infrastructure and environmental solutions.
 ---
 
 ## 🔧 Skills
-- **Geospatial Technologies:** ESRI Products | QGIS | FME | Cartography | Remote Sensing |
-- **Environmental Analysis:** Hydrological Modelling | Hydrochemistry | Hydrogeochemistry | Risk Assessment | Soil Erosion & Soil Protection | EHS & Sustainability  | Urban Water Management | Research & Development
-- **Data Management:** Geospatial Asset Management | Spatial & Non-Spatial Data Analytics 
-- **Project Management:** Agile Methodologies | Safety Management | Consultancy
+- **Geospatial Technologies:** ArcGIS Platform (Pro, ArcMap, Enterprise) | QGIS | FME | Spatial Data Modeling | Remote Sensing | Cartographic Design|
+- **Environmental & Infrastructure Analysis:** Hydrological Modelling | Hydrochemistry & Hydrogeochemistry | Environmental Risk Assessment | Soil Erosion & Protection | Urban Water Management | EHS & Sustainability
+- **Data & Asset Management:** Geospatial Asset Management | Spatial & Non-Spatial Data Analytics | Data Quality & Standards
+- **Project & Technical Delivery:** Agile Methodologies | Technical Consultancy | Safety Management
 
 ## 💻 Technical Tools and Platforms
 
